@@ -40,14 +40,6 @@ Ontario is the most populous province in Canada, known for its diverse landscape
 Toronto, Ontario's capital and largest city, is a major financial and cultural center in Canada. It boasts a diverse population and is known for its iconic landmarks, including the CN Tower and the Royal Ontario Museum. Toronto's bustling downtown area features a mix of modern skyscrapers, historic buildings, and vibrant neighborhoods like Kensington Market and the Distillery District. The city is a global hub for business, arts, and entertainment, attracting millions of visitors each year for its festivals, sports events, and thriving culinary scene.
 
 #
-
-![Canadian Made](https://github.com/user-attachments/assets/45f69531-e769-4883-9b54-8a27f4c8022f)
-
-#
-
-![Toronto](https://github.com/user-attachments/assets/b2ad7ff8-d643-4160-9934-cf7bbadc3a7f)
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
@@ -59,6 +51,14 @@ Toronto, Ontario's capital and largest city, is a major financial and cultural c
 [Goverment](https://github.com/sourceduty/Government)
 <br>
 [International Compatibility](https://github.com/sourceduty/International_Compatibility)
+
+#
+
+![Canadian Made](https://github.com/user-attachments/assets/45f69531-e769-4883-9b54-8a27f4c8022f)
+
+#
+
+![Toronto](https://github.com/user-attachments/assets/b2ad7ff8-d643-4160-9934-cf7bbadc3a7f)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
