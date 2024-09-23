@@ -35,6 +35,10 @@ Trudeau's tenure has been marked by significant achievements and controversies. 
 ![Canadian Made](https://github.com/user-attachments/assets/45f69531-e769-4883-9b54-8a27f4c8022f)
 
 #
+
+![Toronto](https://github.com/user-attachments/assets/b2ad7ff8-d643-4160-9934-cf7bbadc3a7f)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
