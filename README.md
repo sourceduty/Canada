@@ -74,6 +74,8 @@ The image of the mountain bike set against a dense forest backdrop highlights On
 [My Canada Account](https://github.com/sourceduty/My_Canada_Account)
 <br>
 [Canadian Weather](https://github.com/sourceduty/Canadian_Weather)
+<br>
+[News](https://github.com/sourceduty/News)
 
 #
 
