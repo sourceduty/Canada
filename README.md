@@ -38,6 +38,14 @@ Trudeau's tenure has been marked by significant achievements and controversies. 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[International Business](https://github.com/sourceduty/International_Business)
+<br>
+[UN Simulator](https://github.com/sourceduty/UN_Simulator)
+<br>
+[Goverment](https://github.com/sourceduty/Government)
+<br>
+[International Compatibility](https://github.com/sourceduty/International_Compatibility)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
