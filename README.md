@@ -31,6 +31,13 @@ Justin Trudeau, Canada’s 23rd Prime Minister, began his political career in 20
 Trudeau's tenure has been marked by significant achievements and controversies. He negotiated trade agreements like the USMCA and implemented progressive policies such as cannabis legalization. However, his administration has faced criticism over issues like the SNC-Lavalin affair, ethics violations, and conflicts between environmental commitments and pipeline projects. Despite setbacks, Trudeau has navigated Canada through the COVID-19 pandemic, focusing on economic recovery and social equity. His leadership style and policies continue to shape the country's political landscape, balancing progressive goals with the complexities of governance.
 
 #
+### National Nepotism
+
+Justin Trudeau, the Prime Minister of Canada, has faced criticism over allegations of nepotism and favoritism in his political decisions and affiliations. Critics argue that Trudeau's connections and family background have afforded him undue influence and opportunities, often pointing to his father, Pierre Trudeau, a former Prime Minister, as a key factor in his political rise. Allegations of nepotism surfaced prominently during the WE Charity scandal, where Trudeau's government was accused of awarding a major government contract to a charity with connections to his family. This incident raised concerns about transparency and ethics, as Trudeau himself admitted that his family members had been paid by the organization for speaking engagements, which many saw as a conflict of interest.
+
+Beyond individual scandals, critics argue that Trudeau’s leadership style has fostered a political culture that privileges personal connections and loyalty over merit. Instances such as the appointment of close friends and allies to significant positions within his administration have been cited as examples of nepotism. This has led to a perception that Trudeau's governance may prioritize personal relationships over the public good, undermining trust in Canadian institutions. However, supporters argue that Trudeau’s decisions are based on policy and competence, rather than personal ties, highlighting his administration's focus on diversity and social progress. Despite these defenses, the recurring accusations of nepotism continue to be a contentious issue in Canadian politics, influencing public perception and trust in the government.
+
+#
 ### Modernization
 
 ![Canadian](https://github.com/user-attachments/assets/e5202330-a5ad-446e-873f-364ae172908a)
