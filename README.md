@@ -51,8 +51,6 @@ The image of the mountain bike set against a dense forest backdrop highlights On
 #
 ### Related Links
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT)
-<br>
 [International Business](https://github.com/sourceduty/International_Business)
 <br>
 [UN Simulator](https://github.com/sourceduty/UN_Simulator)
