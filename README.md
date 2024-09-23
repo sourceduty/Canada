@@ -31,6 +31,15 @@ Justin Trudeau, Canada’s 23rd Prime Minister, began his political career in 20
 Trudeau's tenure has been marked by significant achievements and controversies. He negotiated trade agreements like the USMCA and implemented progressive policies such as cannabis legalization. However, his administration has faced criticism over issues like the SNC-Lavalin affair, ethics violations, and conflicts between environmental commitments and pipeline projects. Despite setbacks, Trudeau has navigated Canada through the COVID-19 pandemic, focusing on economic recovery and social equity. His leadership style and policies continue to shape the country's political landscape, balancing progressive goals with the complexities of governance.
 
 #
+### Ontario
+
+![Ontario Places](https://github.com/user-attachments/assets/8330787c-3ceb-498c-a544-b4a896e40034)
+
+Ontario is the most populous province in Canada, known for its diverse landscape and vibrant cities. It is home to Ottawa, the nation's capital, where government institutions like Parliament Hill and the Prime Minister's office are located. Ottawa is renowned for its rich cultural heritage, with numerous museums, galleries, and historic sites that reflect Canada's history and multicultural identity. The city is also a hub for technology and education, housing several universities and research institutions that contribute to its dynamic economy.
+
+Toronto, Ontario's capital and largest city, is a major financial and cultural center in Canada. It boasts a diverse population and is known for its iconic landmarks, including the CN Tower and the Royal Ontario Museum. Toronto's bustling downtown area features a mix of modern skyscrapers, historic buildings, and vibrant neighborhoods like Kensington Market and the Distillery District. The city is a global hub for business, arts, and entertainment, attracting millions of visitors each year for its festivals, sports events, and thriving culinary scene.
+
+#
 
 ![Canadian Made](https://github.com/user-attachments/assets/45f69531-e769-4883-9b54-8a27f4c8022f)
 
