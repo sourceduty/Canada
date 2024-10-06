@@ -15,7 +15,7 @@ The political framework is further shaped by Canada's commitment to multicultura
 #
 ### Almost American
 
-![Canada-USA](https://github.com/user-attachments/assets/75f400c6-e0d6-47a4-b8b3-4f13cbc3244a)
+![Uncle-Sam](https://github.com/user-attachments/assets/73598d6b-2013-41e6-82e1-342ebdbef1fb)
 
 American influence in Canada is extensive and multifaceted, impacting everything from culture and economics to politics and security. Economically, the United States is Canada's largest trading partner, with billions of dollars in goods and services crossing the border daily. This economic interdependence means that shifts in U.S. policies, such as trade agreements or tariffs, can have significant repercussions for Canadian industries, particularly in sectors like automotive, energy, and agriculture. The cultural influence is also pervasive, as American media, entertainment, and consumer brands dominate the Canadian market, often overshadowing domestic productions and shaping Canadian tastes and trends.
 
@@ -32,6 +32,8 @@ Trudeau's tenure has been marked by significant achievements and controversies. 
 
 #
 ### National Nepotism
+
+![Moose-in-the-Box](https://github.com/user-attachments/assets/c6a543ad-615d-484c-a15d-6d7ae4c05cdd)
 
 Justin Trudeau, the Prime Minister of Canada, has faced criticism over allegations of nepotism and favoritism in his political decisions and affiliations. Critics argue that Trudeau's connections and family background have afforded him undue influence and opportunities, often pointing to his father, Pierre Trudeau, a former Prime Minister, as a key factor in his political rise. Allegations of nepotism surfaced prominently during the WE Charity scandal, where Trudeau's government was accused of awarding a major government contract to a charity with connections to his family. This incident raised concerns about transparency and ethics, as Trudeau himself admitted that his family members had been paid by the organization for speaking engagements, which many saw as a conflict of interest.
 
