@@ -24,7 +24,7 @@ Politically, American influence is felt in Canada’s foreign policy and defense
 #
 ### Prime Minister Trudeau
 
-![Trudeau](https://github.com/user-attachments/assets/db693bd4-2d8c-436b-a1d7-4bd28a1227e5)
+![Canada Be Like](https://github.com/user-attachments/assets/9d70a026-dc63-4824-954c-cd15cabaf336)
 
 Justin Trudeau, Canada’s 23rd Prime Minister, began his political career in 2008 as the Member of Parliament for Papineau. He rose to prominence as the son of former Prime Minister Pierre Trudeau and became leader of the Liberal Party in 2013. In 2015, he led the Liberals from third-party status to a majority government, emphasizing hope, inclusivity, and progressive policies. His platform included middle-class tax cuts, support for families, and reconciliation with Indigenous peoples. His charismatic leadership and focus on diversity and gender equality resonated with many Canadians, particularly younger voters, making him one of the most notable Canadian leaders of the past decade.
 
