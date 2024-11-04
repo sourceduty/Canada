@@ -24,7 +24,7 @@ Politically, American influence is felt in Canada’s foreign policy and defense
 #
 ### Prime Minister Trudeau
 
-![Canada Be Like](https://github.com/user-attachments/assets/9d70a026-dc63-4824-954c-cd15cabaf336)
+![Same Picture Politics](https://github.com/user-attachments/assets/2e5e97b4-ed74-4e4f-a5b3-40c319b4dc71)
 
 Justin Trudeau, Canada’s 23rd Prime Minister, began his political career in 2008 as the Member of Parliament for Papineau. He rose to prominence as the son of former Prime Minister Pierre Trudeau and became leader of the Liberal Party in 2013. In 2015, he led the Liberals from third-party status to a majority government, emphasizing hope, inclusivity, and progressive policies. His platform included middle-class tax cuts, support for families, and reconciliation with Indigenous peoples. His charismatic leadership and focus on diversity and gender equality resonated with many Canadians, particularly younger voters, making him one of the most notable Canadian leaders of the past decade.
 
@@ -105,16 +105,13 @@ The image of the mountain bike set against a dense forest backdrop highlights On
 [News](https://github.com/sourceduty/News)
 
 #
-
 ![Canadian Made](https://github.com/user-attachments/assets/45f69531-e769-4883-9b54-8a27f4c8022f)
-
 #
-
 ![Toronto](https://github.com/user-attachments/assets/b2ad7ff8-d643-4160-9934-cf7bbadc3a7f)
-
 #
-
 ![Canada](https://github.com/user-attachments/assets/0661d5f6-9a35-4468-8afe-ec930d030e83)
+#
+![Canada Be Like](https://github.com/user-attachments/assets/9d70a026-dc63-4824-954c-cd15cabaf336)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
